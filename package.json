@@ -1,6 +1,6 @@
 {
   "name": "electron-recorder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Records movies using node-electron",
   "main": "index.js",
   "directories": {
